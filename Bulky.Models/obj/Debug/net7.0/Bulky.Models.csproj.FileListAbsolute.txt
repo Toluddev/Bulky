@@ -1,0 +1,12 @@
+/Users/PRO/Desktop/Net p/Bulky/Bulky.Models/bin/Debug/net7.0/Bulky.Models.deps.json
+/Users/PRO/Desktop/Net p/Bulky/Bulky.Models/bin/Debug/net7.0/Bulky.Models.dll
+/Users/PRO/Desktop/Net p/Bulky/Bulky.Models/bin/Debug/net7.0/Bulky.Models.pdb
+/Users/PRO/Desktop/Net p/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/PRO/Desktop/Net p/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.AssemblyInfoInputs.cache
+/Users/PRO/Desktop/Net p/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.AssemblyInfo.cs
+/Users/PRO/Desktop/Net p/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.csproj.CoreCompileInputs.cache
+/Users/PRO/Desktop/Net p/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.dll
+/Users/PRO/Desktop/Net p/Bulky/Bulky.Models/obj/Debug/net7.0/refint/Bulky.Models.dll
+/Users/PRO/Desktop/Net p/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.pdb
+/Users/PRO/Desktop/Net p/Bulky/Bulky.Models/obj/Debug/net7.0/ref/Bulky.Models.dll
+/Users/PRO/Desktop/Net p/Bulky/Bulky.Models/bin/Debug/net7.0/ErrorViewModel.cs
